@@ -1,4 +1,5 @@
 .git.*
+Config
 
 # Created by https://www.gitignore.io/api/vim,linux,nanoc,macos,csharp,windows,aspnetcore,visualstudio,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=vim,linux,nanoc,macos,csharp,windows,aspnetcore,visualstudio,visualstudiocode
